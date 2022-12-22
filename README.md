@@ -1,25 +1,39 @@
-> _Fork_ deze leertaak en ga aan de slag. 
-Onderstaande outline ga je gedurende deze taak in jouw eigen GitHub omgeving uitwerken. 
-De instructie vind je in: [docs/INSTRUCTIONS.md](docs/INSTRUCTIONS.md)
+# All Human - Vini Mini
 
-# Titel
-<!-- Geef je project een titel en schrijf in één zin wat het is -->
+Link website: https://rickvellingaa.github.io/look-and-feel-corporate-identity/
 
-## User Story
-<!-- Schrijf de user story waar je aan hebt gewerkt  -->
+## Inhoudsopgave
+
+  * [Beschrijving](#beschrijving)
+  * [Kenmerken](#kenmerken)
+  * [Bronnen](#bronnen)
 
 ## Beschrijving
-<!-- In de Beschrijving staat hoe je project er uit ziet, hoe het werkt en wat je er mee kan. -->
-<!-- Voeg een mooie poster visual toe 📸 -->
-<!-- Voeg een link toe naar Github Pages 🌐-->
+
+Voor Vini Mini heb ik de user story: "Als ouder wil ik bij het openen van Mijn Vini Mini persoonlijk advies behorende bij de betreffende dag kunnen lezen, zodat de kans op een allergische reactie bij mijn kind kleiner wordt." gekozen om te gaan maken. De website is te zien zodra de gebruiker inlogt op zijn/of haar persoonlijk Vini Mini account. Op de pagina kun je verschillende adviesen zien die zijn aangeraden voor die dag. 
+
+Voor Vini Mini heb ik tijdens deze leertaak een inlog en registratie formulier gemaakt, zodat het duidelijker wordt dat de pagina's die ik in eerdere sprints heb gemaakt echt persoonlijk zijn en alleen voor gebruikers te zien zijn die zijn ingelogd. Het formulier gaat alleen door naar de home pagin als je een bepaalde inlog combinatie invuld.
+
+Link website: https://rickvellingaa.github.io/look-and-feel-corporate-identity/
+
+### Foto's opzet website
+
+![image](https://user-images.githubusercontent.com/112856287/205251053-0a7c8cc1-5f0f-4688-a498-5eadf9d37bc3.png)
+![image](https://user-images.githubusercontent.com/112856287/205251078-a97117b1-ee35-44cf-9849-fadb0040e8bc.png)
 
 ## Kenmerken
-<!-- Bij Kenmerken staat welke technieken zijn gebruikt en hoe. Wat is de HTML structuur? Wat zijn de belangrijkste dingen in CSS? Wat is er met JS gedaan en hoe? -->
 
+Bij het maken van het inlogformulier heb ik vooral heel veel gebruik gemaakt van JS. Ik heb in JS door middel van querySelectors en functions een inlogformulier gemaakt die gebruikers naar hun desbetreffende home pagina stuurt. Voor nu heb ik alles gemaakt door gebruik te maken van eventListeners en classLists, hierdoor kan ik op bepaalde acties zoals click of submit bepaalde classes toevoegen waardoor ik bijvoorbeeld een ander formulier kan tonen of een melding kan laten zien als er een gebruikersnaam fout is. 
 
+* HTML
+* CSS
+* JS
+* Schetsboekje
 
-## Licentie
+## Bronnen
 
-![GNU GPL V3](https://www.gnu.org/graphics/gplv3-127x51.png)
+Vini Mini: https://vinimini.nl/
 
-This work is licensed under [GNU GPLv3](./LICENSE).
+FDND Task: https://github.com/fdnd/task
+
+FDND Agency:https://github.com/fdnd-agency
