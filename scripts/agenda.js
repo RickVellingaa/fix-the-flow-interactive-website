@@ -37,8 +37,8 @@ $(document).ready(function() {
         calendarEvents: [{
             id: "d8jai7s",
             name: "Pinda #1",
-            description: "Voed je fk kind de",
-            date: "December/6/2022",
+            description: "Voed je kind de Pinda",
+            date: "December/23/2022",
             type: "birthday",
             everyYear: !0
         }]
